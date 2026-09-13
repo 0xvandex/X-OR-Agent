@@ -389,7 +389,13 @@ Create/use a dedicated test account
 Test only within authorized boundaries
 ```
 
-Credentials should never be hard-coded into agent definitions, Skills, or repository files.
+Credentials should never be hard-coded into agent Credit
+
+Full credit to Monesgoda for creating the original Offensive Agents project and establishing the initial OpenCode-based multi-agent penetration-testing architecture.
+
+Original repository:
+
+https://github.com/Monesgoda/offensive-Agent-sdefinitions, Skills, or repository files.
 
 ---
 
@@ -518,4 +524,10 @@ You are responsible for complying with applicable laws, program rules, contracts
 Cybersecurity Researcher & AI Security Enthusiast
 
 
-**MIT License** — Use responsibly and only on authorized targets.
+# Credit
+
+Full credit to Monesgoda for creating the original Offensive Agents project and establishing the initial OpenCode-based multi-agent penetration-testing architecture.
+
+Original repository:
+
+https://github.com/Monesgoda/offensive-Agent-s
