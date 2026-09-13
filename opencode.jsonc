@@ -22,7 +22,7 @@
         "@notionhq/notion-mcp-server"
       ],
       "environment": {
-        "NOTION_TOKEN": "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"
+        "NOTION_TOKEN": "PUT_YOUR_TOKEN"
       }
     },
     "playwright": {
@@ -65,7 +65,7 @@
         "@modelcontextprotocol/server-github"
       ],
       "environment": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "PUT_YOUR_PAT"
       }
     }
   }
